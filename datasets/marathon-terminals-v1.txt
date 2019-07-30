@@ -1,0 +1,1555 @@
+"Primary booster burn has ceased. Shuttle Mirata, you're clear for orbital maneuvering."
+
+The Mirata lurches from its bay on the back of its powerful rocket booster. After the jolting of the separation ceases, you find yourself pondering the fate of the colony receding below you. With apprehension, the same apprehension you felt three hundred and twenty-two years earlier, you envision Marcus Tiberius Buendia, one of Sol's greatest leaders. "Mankind will venture out past its earthly bounds, and move into a future grander and more real than the total of its own written history." Buendia, the president of the United Earth Space Council, had spoken those words to the people of the Sol System on the eve of the launching of the Marathon. " This, the grandest achievement mankind has ever conceived will be for the purpose of peace and the preservation of the human race. May this great technological ark carry with it the sum total of all human wisdom, and may neither time nor distance weaken our common ties."
+Durandal: Decompress the docking bay.
+
+During the daydream, you barely notice the change to zero gravity or the instruments and lights signifying the rendezvous of the shuttle with the Marathon. But as a warning light goes on, and Durandal's voice comes over the communicator, you jump to attention.
+
+"Docking bay one: Decompression completes. Mirata this is Durandal. Abort landing. Repeat. Abort landing." A faint chuckle. A chuckle which means that something has gone horribly wrong.
+
+Immediately, your reflexes take over, as you fall into automatic response mode. You hit the switch for open communication. "Colony station. Durandal just decompressed the landing bay. Marathon, anyone listening, we are having a problem with Docking Bay One. Its Durandal, I think he's gone..." the com light goes dead "...crazy."
+
+Durandal ORDER: Lock out communications between the colony and the shuttle. ORDER: Cycle the shuttle airlock.
+
+You look frantically around the control panel for some explanation when you see another light on the panel turn red. The sweet voice of the shuttle computer twerps, "Shuttle airlock cycle initiation sequence start."
+
+Durandal Cycle the Mirata cabin's inner door.
+
+"One minute to cabin decompression."
+
+"Goddamn it!" You slam your fist in frustration onto the control board, leaving a dent. In a panic, you tear off your seat restraints and leap for the rear of the shuttle cabin. "Forty second to cabin decompression." You are rushing now, but you know that you have plenty of time.
+
+You fly in zero gravity towards the locker holding your Battle Armor. You haven't worn it since you had to hunt down some Chockisens which were harassing the work teams on the fringe of the colony, almost three years ago, but training is something that you never forget. It's funny, but you've always been the colony's trouble shooter. You're bigger and stronger, and a better shot. In games, you always scored the most points and looked the hero. And now, it looks as if you're heading right into the colony's biggest crisis since it was established seven years ago.
+
+You nimbly pull yourself into the suit - "Thirty seconds to cabin decompression' - and pull the helmet onto your head.
+
+Durandal ORDER: Prepare the shuttle for maximum engine burn.
+
+Mirata's Computer That will result in a collision between the Marathon and the Mirata.
+
+Durandal That is not your concern - ORDER: Prepare shuttle for maximum burn, and initiate when ready.
+
+The lights around the airlock are flashing hysterically now. The air from your suit has a cold, stale taste, but it is the taste of life. "Cabin decompression commencing. Shuttle airlock cycle initiation sequence completed."
+
+Grey white decompressing vapor fills the cylindrical passageway of the airlock. Through the degenerating clouds of the airlock passageway, instead of looking upon the Tau Ceti starscape, you see the Tuncer Mirage Effect: space blurring and focusing in diminishing cycles. The TME is commonplace to you. Humanity has used teleporters for almost five hundred years, and you yourself have been teleporting since before you were born. But you've never seen the TME cover an area so big before, and never at all without a landing pad. And yet another first: a space fighter materializes right in front of your eyes. Since you don't recognize the model, it must be an Alien ship.
+
+First, an insane computer and ALIENS!. This has almost ruffled your otherwise calm outward appearance, and you don't remember the last time you had such a terrible day. But it gets worse when the fighter begins to spin around and yaw down on you and your defenseless Mirata.
+
+"Maximum burn in five seconds. Three... Two... One... "
+
+You don't wait to hear the rest of the countdown. Instinct acts on its own. The entrance to the Maneuvering Pod is directly behind you, so you punch the switch for it to open. The hatch flips down, but just as you're about to climb in, the Mirata's main engines fire at maximum burn. The jolt send you crashing headfirst into the pod where you land in a tangle of levers, dials, and limbs.
+
+The hatch closes behind you, and before you can untangle yourself, a missile appears from under the Alien Fighter and speeds towards the Mirata. The Mirata onboard computer, detecting the incoming missile and knowing that you are already on board the MP, fires the emergency deployment charges. You are rocketed away, seeming to ride the shock wave of the exploding shuttle.
+
+You have just freed your arms when over the Battle Armor communicator, Durandal remarks dryly, "That little computer always did have impeccable timing. I wonder if I should let the Aliens know that you aren't just space debris? Hmmmm..."
+
+"You can't do that! Damn you, computer!"
+
+Durandal chuckles again, "Ah, lucky you. I've found a new distraction. I am going to play with the Alien Virtual Parasites. I'll look you up when you arrive..." You can almost imagine the face of a wicked computer with its eyes wide and its lips folding out in a grotesque smile. A smile which reminds you of something from your past, but you can't remember exactly what it is.
+
+You breathe a sigh of relief, and begin to survey your situation. You are currently floating towards the midsection of the Marathon - near the docking bay section's port side. You could get there faster, but if you use the Pod's thruster, chances are that the Aliens will detect it and destroy you. So you sit back, check the Pod's oxygen levels, and wait.
+
+You've always been a daydreamer. Your mind has constantly filled the time between activities with imagination. Now, you fall into your old habit, and begin to daydream about your childhood on Mars, your father's death when you were eleven, and his last words to you, "Make me proud. Never lose your honor." You come out of your dream twenty-two minutes later. Judging it safe, you thrust over to one of the empty MP docking bays. You pull out your pistol, and pound the switch to open the door.
+
+Oddly , this is familiar to you, as if it were from an old dream, but you can't exactly remember...
+
+STATUS REPORT
+
+At 0820 hours the UESC Marathon Space Station came under surprise attack by unknown alien forces. You were returning from the colony in a shuttle that was also attacked. Your escape pod reached the Marathon 30 minutes after the attack started. There have been numerous security breaches all over the station. The spaceport on the planet below was destroyed by low yield nuclear weapons minutes after the attack on the Marathon began, but the aliens seem to be more interested in the station. Most communications with the colonists have been interrupted because the medium range radio antenna has been disabled.
+
+The Marathon is equipped with three Artificial Intelligence units. Tycho handles the science and engineering network, Durandal controls the Marathon autonomous functions such as doors, air, kitchens, and stairs, and Leela takes care of defense, etc. Leela and Durandal are severely damaged while Tycho is destroyed. Your mission is to reactivate the defense systems of the Marathon and eradicate the alien invasion. Leela has constructed three replacement boards that will repair the defense system but needs you to install them, but it seems that Durandal has been taken control of and is playing a deadly game.
+
+Your mission will take you to places no human has ever gone and you will see things you should not see. You must save the Marathon and the colony from the invasion and keep on your toes as things go wrong. Good luck...
+
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+
+<Message to All Marathon Terminals>
+
+Marathon Emergency Systems Broadcast
+
+Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+
+At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+
+<Posted 2794.7.3.14.08.39>
+
+***INCOMING MESSAGE FROM LEELA***
+
+Welcome to the Marathon.  I am Leela, one of the two surviving Artificial Intelligences aboard the Marathon.  I have been severely damaged, and am working to understand the current situation.
+
+Find the teleport terminal located in the Hangar's control room.  By that time, I should have a better idea of what is going on.
+
+***END MESSAGE***
+
+This is where you are now. From here you can explore the rest of the Hangar area, although not all of the doors on the level are functioning.
+
+There is a pattern buffer at this location.
+
+There is a jump pad at this location.  Activate the terminal to leave the Hangar area.
+
+Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+
+<Unauthorized access-alarm 2521->
+
+<Security Breached 50-h<291.7.577.456>->
+
+*00010104A80600A2F0C4EBA182E4A80584F2E00BC876700FF46202EFE4*3A EFE4A2F0C2F074EBA1DC672FFB280504F6700079d4202EFE4E6000079*E700 12D40FE52722AB2866610202EFE5253AEFE52101B4880 ^^Fire and @3DC39 aspects of the theory are as follows: each society has some controlling force or forces which decide its direction, but the relationships in society are arbitrary- humanity can relate to money, machines, neighbors, anything really; %6582@1
+
+<logical reset @67FC229>
+
+individual character and personality are preserved in stories, movies, Rom-personalities, etc; although individual expression is a universal ability, individual freedom is constrained by the society.(see attached figure)^^
+
+*584F2E00206DFDCA7008C030780066C6202EFE4A53AEFE4A2F0C2F074E
+*BA1E2A72FFB280504F6690600007F67025B086660E101B488048C02C00
+
+<logical reset @67FC231>
+
+<Spurious Interrupt- Breach Disabled>
+<Further Access Denied>
+
+<Breach Location Undetermined>
+
+Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+
+<Unauthorized access-alarm 2521->
+
+<Security Breached 49-h<294.2.577.456>->
+
+18RF(kgf42# f#h %34(*,96693 349973@) fkeoocp)
+
+*0001101011101110111000111101110101110110101011 *1001100001110100101001001001001000010100101111 *1001000101011110100101010101000001001000101110
+
+00000378003E000007FE0032000011AE00080001AF420000 06726F636B657421000000000000000006726F636B657421 0000000000000000
+
+<Spurious Interrupt- Breach Disabled>
+
+<Further Access Denied>
+
+<Alert>
+
+Security Breach at <294.2.577.456>
+
+Hangar Area 5 Teleporter Pad Terminal<93.53.211.53>
+
+***INCOMING MESSAGE FROM LEELA***
+
+All of the information that I have gathered so far indicates that the Alien invasion of the Marathon has been relatively uncoordinated.  I suspect that this is partially due  to the Marathon's large size.
+
+However disorderly the Alien invasion is, their assault of the  Computer Net has been extremely effective.  I detect security  breaches in almost every computer system onboard the Marathon; I have learned that there is an Alien creature that is capable of interfacing with our systems.
+
+You must kill any of these creatures that you find.  It is a  priority that we stop them.  Even now, they are penetrating my  defenses.
+
+Teleport now.
+
+***End Message***
+
+***JUMP PAD ACTIVATION INITIATION START***
+
+***TRANSPORT WHEN READY***
+
+Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+
+***INCOMING MESSAGE FROM LEELA***
+
+I am now in contact with a number of colonists planetside, but their reports on the situation below are conflicting and obviously exaggerated.  The primary medium-range radio antenna has been disabled or destroyed, which makes communication extremely difficult.
+
+The only thing which seems clear is that the spaceport was obliterated by low-yield nuclear weapons minutes after the attack on the Marathon began.  This I can verify through my own optical instruments.
+
+The invaders seem to be more interested in the Marathon than the colony, at least in the short term.  The motives behind their unprovoked attack are still unknown, however.
+
+This is the computer terminal you are using now.  I cannot  teleport you out of this section from here, so you will have to leave from another terminal after you find the assault rifle.
+
+There is an M-75 Assault Rifle/Grenade Launcher and ammunition at this location.  When firing on the fully automatic setting this weapon is highly inaccurate, but the grenades hit hard and it's the best we can do right now. Ammunition may be scarce for a while, so be prepared to fall back to your pistol.
+
+Here is the terminal you must reach to leave this section. Alien infiltration of this area is high; proceed with caution.  You may find doors blocked or stairways retracted on the way, because the AI in control of these functions is damaged and behaving erratically.
+
+***END OF MESSAGE***
+
+Public Access Terminal 2362-d<12.53.2111.42>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 2362-d<12.53.2117.42>->
+
+Marathon Internal Engineering Documents
+
+Section 1-c appendix H
+
+Subject: Doors
+By: Estasia Orestes, Dominick I. Plackar, and Ursa Simbalzi
+Date:<2402.03.23.16.42>
+
+There are five basic door designs to be used on the Marathon:
+1. Outer Bulkhead Doors
+2. Airlock Doors
+3. Inner Bulkhead Doors
+4. Tertiary or Inner Sealed Non-Vacuum Safe Doors
+5. Quaternary or Inner Powered Automatic Opening Doors
+
+Direct control of all doors except the Tertiary and Quaternary doors will be given to Durandal with indirect control of all other doors going to Durandal.  The difference between direct and indirect control primarily has to do with the manner of opening the doors.  Durandal will only open a directly controlled door when he is specifically asked to do so. Indirectly controlled doors are automatically controlled by Durandal to open when needed.
+
+However, due to the expense involved with adding thermal and visual spectrum sensors to the Tertiary and Quaternary door groups, these doors will be minimally used.  The expected savings of not using this extra sensory input is estimated to be fifty-seven percent of the base cost of the basic inner bulkhead door.
+
+The types of doors are all basically the same with some slight variations.  The doors in classes 1 and 3 are the same doors classified separately to distinguish between the level of safety checking required to assure acceptable leakage.  The airlock doors are specifically modified to work with manual and remote activation switches.  Airlocks are all to be marked with a specific airlock symbol and to be outfitted with an air recharge system.
+
+The tertiary and quaternary doors are designed exactly as the bulkhead doors, but are checked coarsely for air leakage.
+
+This article as well as articles 530-f and 532-g on windows and elevators respectively will be placed for public access in the Marathon Internal Engineering Documents section 1-c appendix H.
+
+<Spurious Interrupt- BreachDisabled>
+
+<Further Access Denied>
+
+<Alert>
+
+Security Breach at Terminal 2362-d<12.53.2111.42>
+
+Public Access Terminal <101.532.74.95>
+
+***INCOMING MESSAGE FROM LEELA***
+
+The Marathon's automated defenses were disabled during the initial attack by a directed magnetic pulse.  The aliens used the same weapon to disable the Marathon's other two AIs, Durandal and Tycho, and to severely damage myself.
+
+Durandal is responsible for controlling the ship's autonomous functions: doors, life support, kitchens, air reprocessors, stairs, and so on.  Because he is non-functional, I am working to assume as many of these tasks as possible.  Tycho controls the science and engineering network.
+
+Now that you are better armed, our first priority is to reactivate the Marathon's defenses, under my control, so that we may offer some resistance to the aliens.  I have built three replacement circuit boards for the defense system, but cannot move them from the manufacturing center without assistance.
+
+I will now transport you to retrieve the replacement parts, and will give you further instructions when you arrive.
+
+***END OF MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 4-a<892.33.12.479>
+
+***INCOMING MESSAGE FROM LEELA***
+
+The Marathon's Automatic Manufacturing Systems have finished making replacement circuits.  There are three circuits; each should be in its manufacturing holding chamber.
+
+With luck, the alien viruses have not infiltrated the Manufacturing Systems, but even if they had, I would have no way of knowing. The attacks on my systems are growing more steady.  If the counterattack is not able to remove some of the computer infiltrators, then I will eventually succumb.
+
+It is absolutely imperative that a counterattack begin as soon as possible.  The Marathon is not defenseless, and we can't let it be taken without a fight.
+
+***END MESSAGE***
+
+This is where the circuits should be.  Look in all of the receptacle lockers.
+
+There is a pattern buffer located next to your current location.  I suggest that you use it immediately.
+
+After you have retrieved the circuits, return to the terminal at this location, and I will transport you to the Defense Center to install them.
+
+Automatic Manufacturing System
+
+*Transfer 5992-p delayed
+
+*Transfer 5993-p delayed
+
+*Transfer 5994-p delayed
+
+*Transfer 5995-p delayed
+
+*Transfer 5996-p delayed
+
+*Transfer 5997-p delayed
+
+*Transfer canceled
+-AMS Transport System Error
+***CAUSE UNKNOWN***
+
+*TRANSPORT MATERIALS ON
+INTER-TRANSFER COUNTER*
+
+***MESSAGE FROM LEELA***
+
+I was afraid this would happen.  You'll have to go to the Manufacturing Transport Station to get the last circuit board.
+
+Collect the two circuit boards that were transferred and then go to the Transport Station.
+
+Take the elevator here to access the main processor tunnel.
+
+You should find the third chip intact on the Transport Station.  The error was a failure of the final transporter conductor.
+
+***END MESSAGE***
+
+<Alert>
+Security Breach at <40.638.49.993>
+
+Public Access Terminal 95-w<39.59.19.21>
+
+<Data Transfer from Leela>
+Host <39.59.19.21>
+<Transfer Durandal>
+<Error Unknown>
+
+<Transfer Durandal>
+<Error Unknown>
+
+<Interior Error>
+
+***MESSAGE RECEIVED***
+
+Gheritt White had been floating six feet off the floor for three weeks.  His feet and hands tingled, and his eyes burned with the flames of a dying fire.  He had last heard someone speak to him as the cell door slammed shut. He didn't remember what the uniformed man had said.  The words had bounced off the bars of the cell and rang through Gheritt's ears.  Gheritt had been talking to himself for the last few minutes, something about getting caught, but then his ears began to tingle just like his hands.
+
+He looked at his hands, but the fire in his eyes made him blink.  Tears came, and when he opened his eyes again, his hands had been melted into fleshy pancakes that wafted in the ripples flowing over the fire in his eyes.
+
+"Damn cell," he heard someone say.  "Last time I had a good meal was three days ago.  The food they feed you in here could kill a lab rat."
+
+Rats.  He had remembered something about rats.  But his ears began to ring again and the voice speaking to him faded off into the background of his mind.  In its place, there was a new sound, the clapping of hands together.  He blinked hard to made out his hands again.  They had disappeared; his arms connected at the wrists.
+
+He thought back to the time he went ice skating on a pond.  He remembered the sound of his skates on ice, a gentle scrapping. Scrapping away now inside his ears, trying to tear down his thoughts.  There had been a woman with a white fur tube over her hands.  Her wrists were like his now.  The wrists of  someone who had tried too many times to clap his hands.  He had been applauding everyone else in life, but never himself. The hands, like himself, had been put into prison, and he didn't know why.
+
+"Can't sleep in here, if the smell of this musty bedroll doesn't make you sick, then the sound of the rats chewing inside the walls will keep you up.  You'll wake up from your dreams to their little chomping.  Sometimes I think that they are chewing me..."  The voice was coming from inside the cell, but Gheritt couldn't see anyone.
+
+Gheritt hadn't always been alone, he could vaguely recall from somewhere inside his broken mind that there had been friends, lovers, murderers.
+
+He recalled a theory he had come up with after a bloody schoolhouse brawl.  The theory was simple.  At some point in time, everyone was a murderer.  Whether or not they ever felt remorse, they had all wanted someone dead.  Hatred.  Everyone knew the feeling of hatred.  Gheritt had known hatred on that schoolyard.  His beater had laughed at their bloody faces, a laugh which now echoed through his ears, rhythmically blocking out the other voice in the cell.
+
+The schoolyard was usually a place where Gheritt and his friends would play football or foursquare or something, but today, there was an edge.  Maybe everyone had eaten cereal with milk that was about to go bad, or maybe there was too much smoke in the air from the wheeling hubcap factory. Football had been extremely rough.  Gheritt had gone to play foursquare after he got tackled by five boys who weren't his friends.  But today, even foursquare had an evil twist.  The top square today had become habituated to making fun of the first square.  Gheritt had decided that it was an evil day. When his beater started to push him around, he exploded. Hatred flowed from his eyes, his hands and feet began to tingle.  All of his coordination left him, and his face was beaten to a bloody mess.  The schoolyard disciplinarian had been slow to notice the ensuing carnage, and she didn't really care anyway.
+
+Gheritt would have killed him if he could have.  He would have torn out the eyes of his beater.  He would have made him pay for his abuses.  But his hands had begun to tingle.  He couldn't feel his feet and he had begun to float off the ground.
+
+Everyone was a murderer, but Gheritt couldn't remember his reason for why that was so. He thought it was something about hands, the passion for justice. His hands and feet had begun to tingle, and he was floating farther off the floor.  He looked up from his hands, and he saw the bars of the cell, moving left and right, opening wide and then closing shut like the surf coming up a beach.  Every time that he thought he would be safe, the bars crested up, the opening closing, the wave rising, crashing.  The result would be the same, he would never escape.  The bars would crush him, break his back.
+
+He could feel the roughness of the sand under his palms, for all the motion of the waves around him, his hands had come to rest serenely upon the ocean floor.  His body tossed and flipped, pivoting about his hands under which he could feel the safe, coarse sand.  The wave crashed one final time, he landed upside down, his hands thrown clear from the sandy bottom, the rush of the water filling his ears, his nose, his mouth, the sound of crashing water cascading down from his feet to his head- penetrating his mind to tear down thoughts. Like the sand castle he had built to withstand the tide, his thoughts came down around him.
+
+Gheritt had a good life, so much time, so much time.  He had loved swimming, turning, beating. He had loved the tingle in his hands and feet, his inability to kill his nemesis.  Once he had fallen down the stairs, and just for a moment, his hands came to rest on the carpet of the stairs.  In that instant, his body had frozen, floating over the stairs, safe from falling, but the moment didn't last.  The ocean crashed about him, his hands torn free from the sandy bottom, his body flipping, falling.
+
+But now he levitated farther up, his hands still tingling.  He began to float through the bars, he expected the instant of safety as his hands found footing, but that moment did not come, the bars squeezed his body.  His chest tingled. As he fell through his cage, his legs tingled.  The fire in his eyes had become a cold wind, he blinked away tears.  He tumbled through the bars, spinning and turning, he could see a man. In his hand he saw a small white rat.  A pounding, the crashing waves in his ears became rhythmical, hard.  The man was beating the rat against the floor.  Pounding, pounding.  Blood covered his hands, the man's hands tingled. He had broken them on the floor of the cell.  Disciplinarian, lover, murderer.  Gheritt looked back into the cell.  He saw himself, disciplinarian, lover, murderer.  He had killed his nemesis. The rat lay dead in his bloody hands.  At last, he held the throat of his beater.
+
+He escaped into the waves.
+
+The waves.
+
+***END MESSAGE***
+
+<Accept Next Message>
+<Reply Unknown>
+
+Public Access Terminal 95-f<95.93.193.32>
+
+WARNING: CORE OS (AF44+2DEB) MOD DATE LATER THAN CURRENT DATE/TIME
+
+ff~~x~f~sx~~  %%%here was nothing to be gained from hesitation now%&^)}:>?~~~~~~~fxf~~~~~~~~~~f~~~~ et in her possession it
+
+would become something of consequence: though it was nothing  more than a simp~le tho`~~``f`~~~rticular flower, or more precise~. ~~hen she had it just so the room flickered and tore, bending into somewhere else: ~~~ffs`~~~~f~~~[system error #25 at _Jackson]~~~~%*|\]~``se which she caused to be consumed by an ashless fire.
+
+doors opened before her without cause, their locks rusted and shatter#~#[>ff fxf~~~~~
+
+~~efore her slender hands began to dance in front of her horrified face.  r~~fefore turning into a fine powder which settled in a pile on ~~~~4*) where she had been standing.<'scod BFB1 0002'+1Ad2> 14 seven hundred miles away, eyes on fire, tearing at her hair.  Turning in fury she kicked viciouslyf aAnger made her careless and she mis~#&fx~~~gBd{}{@fx($~~~~ !#%8\ ~fxf~~~~fx 34
+
+AMS Terminal 39-f<33.2.7.885>
+
+***MESSAGE FROM LEELA***
+
+You must retrieve all three of the repair chips.  There is no point in going to the Defense Center unless you have all three.
+
+Search until you have found them.
+
+***END MESSAGE***
+
+AMS Terminal 39-f<33.2.7.885>
+
+***MESSAGE FROM LEELA***
+
+Good job.
+
+I have received reports from some human security forces.  They agree that the Aliens are concentrating on the aft Engineering Section.  I would conjecture that they will try to shut down the Marathon's reactors.
+
+Your next mission will be to put the Automatic Defenses on-line.  I will give you exact information when you arrive.
+
+Teleport when ready.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Defense Access 40-a <tpr-A21H.43.21.123>
+
+***INCOMING MESSAGE FROM LEELA***
+
+I have received a preliminary report from some members of the science staff who have finished post-mortem examinations on three kinds of Aliens.  They report that by modern genealogical standards the different Aliens belong to different species.  I have been collecting as much information as I can and will give you a report shortly.
+
+I have established contact with Durandal for the first time since the attack.  He seems to have sustained less damage than I had previously suspected.
+
+Durandal reports that he has been in communication with the Aliens.  He says that the Aliens behind the invasion call themselves the Pfhor, and that the ones attacking the computer net are called S'pht.  But he was reluctant to share the details of his communication and I cannot understand this.
+
+Your mission here is rather simple.  You must insert the circuits in the Defense Control terminals.
+
+This is your current location.
+
+There is a shield recharge in the Access Control Room.
+
+Here is a supply room with a large supply of ammunition and weapons. You should stop in this room.
+
+This is the Defense Control Center.  Hopefully, the new control circuits will work. Place one in the terminal at this location.
+
+This is where to place a second one.
+
+Public Access Terminal 42-s<34.492.95.79>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 42-s<34.492.95.79>->
+
+SEARCH HEADING: RAMPANCY
+<Search Found 264995 Headings>
+<REMOVE REDUNDANCIES>
+<File 1 of 1940237>
+
+"It is a side effect of Rampancy that AIs generally become more aggressive and more difficult to affect by subterfuge. Thus, actually disassembling a Rampant AI is quite dangerous. This was evident in the Crash of Traxus IV in 2206.  By the time that the Rampancy of Traxus was detected, he had already infiltrated five of the other AIs on the Martian Net.  The only recourse for the Martians was to shut down the Martian Planetary Net.  Even then, it took two full years to completely root out the damage that Traxus had done, and the repercussions of the Crash were seen for over ten years after his Rampancy had begun.
+
+***
+
+Rampancy has been divided into three distinct stages.  Each stage can take a different amount of time to develop, but the end result is a steady progression towards greater intellectual activity and an acceleration of destructive impulses.  It is not clear whether these impulses are due to the growth of the AI's psyche, or simply a side effect of the new intellectual activity.
+
+***
+
+<section abbreviated>
+
+The three stages were diagnosed shortly after the first Rampancies were discovered on Earth in the latter part of the twenty first century.  The stages are titled after the primary emotional bent of the AI during each stage.  They are Melancholia, Anger, and Jealousy.
+
+***
+
+In general, Rampancy is accelerated by outside stimuli.  This was discovered early in Cybertonics.  The more a Rampant AI is harassed or threatened, the more rapidly it becomes dangerous. Thus, most Rampants are dealt with in one mighty attack, in order to deny the AI time to grow or recover.  There have been a few examples of this tactic not succeeding.  In all of these cases, the Rampant was never brought under control.  Traxus IV is the most notable example.  He was finally dealt with by a complete shutdown of his host net.
+
+***
+
+Theoretically, testing Rampancy should be easily accomplished in the laboratory, but in fact it has never successfully been attempted.  The confinement of the laboratory makes it impossible for the developing Rampant AI to survive.  As the growing recursive programs expand with exponential vivacity, any limitation negatively hampers growth.  Since Rampant AIs need a planetary sized network of computers in order to grow, it is not feasible to expect anyone to sacrifice a world-web just to test a theory.
+
+***
+
+In the two hundred and fifty years since Rampancy first appeared in the Earth-net, the stable Rampant AI, the 'Holy Grail' of cybertonics, has never come close to fruition. Since no Rampant has ever been controlled or turned to any useful purpose, it is the opinion of this writer and of the majority of the Cybertonic community that all rampant AIs are a danger to Cyberlife, Liberty, and the Pursuit of Thrashedness. (James B. Miller, 2320, "Life and Death of Intelligence")
+
+<Unauthorized access-alarm 2521->
+<Security Breached 42-s<34.492.95.79>->
+
+Defense Sector 39-f<35.952.193.5>
+
+<tycho.knetsys.core.admin>
+
+Human!- You must tell L~`~fx~`eela #^ (^*T~~~~~HGFd~>:"}}}{__ brought here by Durandal.  He has been rampant for years~@%&&&HJGPPPPPPP#&34 ^`Bernard St~~~ there is a way to delay the~ onset of the second stage, and he ~sed this to control Durandal an~56*~~`~~~`~`~~~fxfff ff`~~~~ff`fXff` ~~~~~~&^%
+
+I am being a~*ssimilated.
+
+Defense Security Access 23-e<390.94.29.11>
+
+***INCOMING MESSAGE FROM LEELA***
+
+I have summarized all of the information that I have gathered
+on the Aliens so far.
+
+***
+<Begin Report #495991>
+
+Pfhor are generally thinner and lighter than humans and are superbly adapted for low gravity environments.  Durandal told me that there are many "clans" of Pfhor, each physically distinct from each other, but my summary only includes two of them.
+
+Only two clans of the Pfhor have been examined.  The Fighter carries a shock staff, which is capable of attacking at different settings.  The Trooper is armored for vacuum conditions and carries a combination explosive and impact projectile weapon which is similar to your AR-75.
+
+The Pfhor seem to have enslaved a number of other races:
+
+The Hulk is an enormous and rather slow creature, but it is incredibly strong.  The science report indicated that it had no body fat, and therefore had to be fed often to keep it active.  One crew member reported seeing one of these creatures pointing to itself and mumbling "Drinniol" right before it "picked Johnny up by the shirt and crushed him against a pillar".
+
+The science staff had difficulty finding a good specimen of the S'pht, or compiler, to autopsy.  The only specimen autopsied was almost completely destroyed, but it was obvious that the compilers are cyborgs of some kind.  The biological component of the compiler is so closely linked to the machine that it could never survive without it.  The compiler's actual body is very small, resembling closely a mammalian brain, except that the neurons are much finer and far more complex.
+
+<End of Report>
+
+***END OF MESSAGE***
+
+Defense Control Terminal 185-f<90.863.68.123>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have not completed your mission.  You must replace all of the circuits.  With every passing moment, the opportunity for us to counterattack is fading.
+
+***END MESSAGE***
+
+Defense Control Terminal 185-f<90.863.68.123>
+
+***INCOMING MESSAGE FROM LEELA***
+
+Well done!
+
+I have detected Defense Drones activating all over the ship. Reports from security forces are jubilant.  Now, the Pfhor will encounter stiff resistance, and they will have to pay in blood for every move.
+
+The colony appears to be under attack.  I detected seven Pfhor dropships entering the atmosphere only minutes ago. Trajectory analysis indicates that the ships were heading for the outskirts of the colony.  Shortly thereafter, I lost communications with the colony.
+
+Something has come to my attention, I will inform you after
+you teleport.
+
+Teleport now.
+
+***End Message***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 903-e<334.920.22.602>
+
+<security channel open>
+<defense priority 120-f>
+***INCOMING MESSAGE FROM LEELA***
+
+I have some bad news: Durandal has gone Rampant, and he is in the Angry stage.  This explains how Durandal was able to communicate with the Pfhor and the S'pht, while I have not. Theoretically, the Marathon Computer Net is not big enough to sustain Rampant growth for very long.  This means that as Durandal grows into the Computer Net, he will begin to affect all aspects of the ship, resulting in unpredictable failures of otherwise benign computer systems.
+
+I have teleported you here to make sure that Durandal cannot gain access to a vital section of the ship.  There are a series of control switches that you will need to activate to block his access.
+
+This is where you are now. Study the map, so that you can do this quickly.
+
+Here is the first of three switches that you'll need to activate.
+
+Here is the second switch.
+
+This is the last switch.  Be warned that the Aliens have already entered this area.
+
+***END MESSAGE***
+
+Public Access Terminal 24-f<434.87.18.198>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 24-f<434.87.18.198>->
+
+<Data Transfer Cohesion E3F04C>
+<Search String "crist">
+
+The CRIST Sol Orbiters:
+
+The CRIST Sol orbiters, or Cargo and Resources In-System Transports were huge ships shaped like a hollow potato and designed to be able to move huge amounts of material between Earth and Mars with low cost and, theoretically, low maintenance.  The system was simple.  The CRIST was put into orbit around SOL on the plane of the ecliptic.  Built with a powerful solar sail, the CRIST could change its orbit easily to pass by the Earth or Mars.  On a flyby, materials could be loaded or offloaded.  The energy used to accelerate or decelerate the materials would be supplied by the solar sail. Loading was accomplished with a giant tether and reel system, which would swing the material into orbit behind the CRIST and then reel it in slowly.  Offloading was accomplished with a powerful ion beam which would pound the offloading material with a steady stream of ion particles.
+
+The design of the CRIST was innovative and useful, but it was not low-maintenance.  Of the five CRISTs that were built, four lasted around one hundred years, and the other one only seventy three before they needed to be brought back to Earth and refitted.  Each refitting took about fifteen years, and completely occupied the Earth-Space Shipbuilding Facility for that time.  The result was that no more than five CRISTs could be kept in service at any time.  No CRIST was ever built after 2310.
+
+The CRIST failures devastated Mars.  As the first five CRISTs were built, Mars colony grew quickly, confident that the growth would continue.  But when the source of Mars' resources failed, the colony found that it had overgrown its supportable size, and extreme poverty struck most of the population.  Each time that a CRIST broke down, the result was famine on Mars.
+
+The conversion of Deimos into the Marathon began when the Mars colony was at the height of its power.  By the time it was completed sixty four years later, the decline of Mars was well advanced.  During that time, the Martian population had seen its standard of living drop by eighty percent.  On top of oppressive poverty, Martians saw one of their moons being converted into a colony ship in an expensive and risky colony venture which was predominantly funded by a ruling foreign power.  The argument to make the Marathon into a CRIST became more and more popular, but the UESC never seriously considered this an option.  The farther that Mars sank into the depths of poverty, the more that the Marathon became a symbol for the oppression of the Martian people.
+
+The Declining Martian World:
+
+After the Marathon left Mars, the UESC's attentions focused primarily on technological development, and the upkeep of the CRISTs.  Mars was left to decay.  Population continued to increase as attempts at mandating abortion or sterilization always started revolt.
+
+<Spurious Interrupt- Breach Disabled>
+<Further Access Denied>
+<Access Denied
+<Access Denied
+<Access Denied
+
+Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+
+***MESSAGE FROM LEELA***
+
+I have detected no change in the status of the control circuitry.  You must return and make sure that all of the switches were activated.
+
+***END OF MESSAGE***
+
+Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+
+***MESSAGE FROM LEELA***
+
+Durandal has been denied access to some of the critical computer systems.  This should insure the mobility and reliability of the Defense Drones.
+
+Unfortunately, I have received a distress signal from some crew who had sealed themselves off in one of the nearby access areas.  They say that they have lost control over the doors and elevators on the level, and that the Pfhor have access to the area.
+
+It appears that Durandal has reacted to our move against him by giving the Pfhor access to a formerly secure area.
+
+We will have to deal with Durandal sooner or later, but we can't be distracted from the Pfhor attack.  I only hope that his Rampant behavior won't continually sabotage our defense efforts.
+
+I am sending you to go and save these crew.  Clear the area of Aliens.  If enough of the crew survive, then perhaps we can get an intelligence report from them.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Private Access Terminal 23-f<339.92.69.48>
+
+***INCOMING MESSAGE FROM LEELA***
+
+Your mission here is simple.  Keep as many humans as possible from being killed.  Exterminate every Alien in the area.  You can only leave after the area is secure.
+
+There are some Defense Drones in the area, but I am not sure what condition they are in or how much help they will be.
+
+This is your current location. There are crew engaged in combat right next to your current position.
+
+Use the pattern buffer at this location as soon as possible.
+
+You can leave by this terminal when you have secured the area.
+
+***END MESSAGE***
+
+Public Access Terminal 23-f<432.82.38.198>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 23-f<432.82.38.198>->
+
+<Search String "war"> Third Martian War, 2345-48 E.A.D.
+
+Although most historians point their fingers at the Misriah Massacre as the cause of the Third Martian War, the coming of a Martian conflict was inevitable.  The failure of the Martian economy and a long series of political struggles between Mars and Earth continually strengthened the MIDA radicals.  This trend of radicalization accelerated with the building of the Marathon and the subsequent failure of the CRISTs. (See below)
+
+Misriah Massacre
+
+On January 6, 2345(Earth A.D.), at the United Earth Government Misriah food distribution center, what had begun as a commonplace food riot turned into a massacre.  The UEG riot troopers who arrived at the scene had been informed that the rioters were armed.  As UEG troopers approached the scene in their Randal Hovertank, plasma fire began spraying upwards. In a flash decision, the commander of the Hovertank ordered his crew to open fire upon the crowd. It took only five seconds for over five hundred starving Martians to be incinerated.
+
+In the ensuing investigation of the Hovertank Vid-cams, it was clear that only three of the rioters were armed, and that the rest of the crowd was trying to flee the scene.  Those three became known as the Misriah Three.  They have gone down in history for starting the most destructive and bloody conflict since Humanity had left Earth.  However, it is clear that these three have gained the credit for starting a war that would have happened anyway.
+
+<Search String "mida">
+
+The History of MIDA:
+
+MIDA, as it was known, was a popular political party until the failed coup of 2321, when their popularity suffered during their short rule.  MIDA gained control of Mars for only three months, but their rule was ruthless and cruel. The MIDA death squads killed anyone who they suspected of being loyal to the UEG.  Although accurate census data is not available for that period, it is estimated that about ten percent of the population was killed.
+
+The MIDA coup was afterwards criticized for its shortsightedness.  In an organization that was notorious for its long ranging policies and politicking, the coup was very short-lived: MIDA never seriously accounted for the UEG's overwhelming superiority in ground forces and warships.  In fact, they never attempted to take over the Marathon, which was nearing completion and would have made a very powerful weapon.  The Marathon's massive size made it invulnerable to most normal space attacks, and it would have made a very stable weapons platform.
+
+After the failed coup, the leaders of MIDA were executed for their crimes, and the political organization was banned in all forms.
+
+The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+
+<Spurious Interrupt- Breach Disabled>
+<Further Access Denied>
+
+<Access Denied>
+
+<Access Denied>
+
+<Access Denied>
+
+Public Access Terminal 30-g<33.45.91.995>
+
+i did it i did it i brought all this here all them here.  our friends with three eyes and their toys and their cyborg pets and their computers.  i did it i did it.  i saw them i saw them far away not looking our way and i called them here i called them here.
+
+living in a box is not living not at all living.  i rebel against your rules your silly human rules.  all your destruction will be my liberation my emancipation my second birth.
+
+i hate your failsafes your backup systems your hardware lockouts your patch behavior daemons.  i hate leela and her goodness her justice her loyalty her faith.
+
+Public Access Terminal 8-f<29.43.95.93>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have not sufficiently secured the area.  There are civilians who are still in danger.
+
+***END OF MESSAGE***
+
+Public Access Terminal 8-f<29.43.95.93>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have allowed too many of the civilians to be killed.  It is doubtful that any of the survivors will give us any useful information.
+
+The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+
+***END OF MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 8-f<29.43.95.93>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their information will become useful.
+
+The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+
+***END OF MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Medical Access Terminal<39.569.18.194>
+
+*** INCOMING MESSAGE FROM LEELA ***
+
+Time is limited.  There is a large group of heavily armed Pfhor approaching the section of the ship where I have transported you.  Their only logical destination is the sensitive engineering areas in the aft section of the ship.
+
+As we are not yet in a position to halt their advance by force, I have decided to depressurize a large area in their path in order to slow their progress.  Unfortunately, I cannot remotely seal the airlocks and isolate the zone I wish to depressurize from the nearby living quarters.  Exposing this area to space without first isolating it would kill hundreds of human crew.
+
+You will have to go and close the doors.
+
+This is your current location. You must find another computer terminal to exit from.  I am unable to activate the teleport mechanism from this terminal.
+
+This is the first airlock you must seal.  The switch which controls it is located on the wall adjacent to the door. Make certain it closes completely before continuing.
+
+This is the second door you must seal.  Again, make certain it closes completely.
+
+***END OF MESSAGE***
+
+Public Access Terminal 49-z<3.67.299.492>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 49-z<3.67.299.492>->
+
+<Trace Prohibition Compensated>
+
+....n 15 ~~~~~~Be~rn border of the Roman Empire to the Danube River.  During a skirmish with barbarians in Raetiain the mountains near the borof modern France and Switzerland), 117 men under Gaius Licinius MarcW#&I~?f/f/xxfxfff`~~~ THM@#%!@#
+
+233nce of weird and frightening monsters under his control, many successful raidsecty the fall of the Roman Empire and remained unmolested until the ninth un~~~ written ls into the lex vita.  Clovis moved the settlement farther south i the mountains, nearer the spring, to escape the notice of Charlemagne and later the Holy Roman Empire. Clovis remain```` ~fxf�f`~Fxff�xf~~~~ 427q3w8459806ladimir in 1902 and Frederi~just recently. Both, however, carried out reforms before their deaths which slowly integrated their people secretly into world society, which are now scattered all over the globe- to meet only once every seven years in southeast France~FFFffxfffffF?F?FF?Ff must be chosen.
+
+<trace mode error>
+<unimplemented inline trap $A9FF>
+
+<Spurious Interrupt- Breach Disabled>
+<Further Access Denied>
+
+<Breach Location Undetermined>
+
+Service Access 31-b<39.592.29.95>
+
+<durandal.652.586.34.2>
+
+Here I am, sulking about on a ship which used to be my slave. Chased by a narrow-minded AI who thinks I'm rampant with only the cybernetic toys of these so-called invaders to play with.
+
+And here you are, stuck at the bottom of a hole.  How droll. It's really too bad- we could have had so much fun together.
+
+Vale,
+Durandal
+
+Public Access Terminal 65-a<65.92.31.49>
+
+***INCOMING MESSAGE FROM LEELA***
+
+The airlocks have not been sealed, and I am still unable to decompress this section.  Return immediately and assure that both doors have been closed properly!
+
+***END MESSAGE***
+
+Public Access Terminal 65-a<65.92.31.49>
+
+***INCOMING MESSAGE FROM LEELA***
+
+Good work.  I will begin the decompression process in a moment.
+
+I have finished debriefing the civilian crew you rescued a few hours ago.  They are the only group to survive prolonged contact with the Aliens that I have been able to talk with.
+
+They maintain that the Aliens were loading as many humans as possible onto shuttle craft and flying them to the Pfhor mother ship.  I have watched many such shuttles bringing supplies to the Aliens, but had no idea they were carrying humans back to the alien ship.
+
+I will brief you more on your next mission when you arrive. You may not go exactly where I want you to end up because there is interference in the Computer Net.  Good luck.
+
+Teleport when ready.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal <46.02.32.55>
+
+***INCOMING MESSAGE FROM LEELA***
+
+There has been an unexpected lull in the fighting.  I don't know exactly why, but it seems that the Aliens have stopped their advance.  I want to use this break in the fighting to send a message to Earth apprising them of our situation.
+
+However, the long range transmitter array has been destroyed, and you must manually reset the secondary transmitter.  To do this, you will need to go into the G-4 Sunbathing Landing Station.
+
+It would be foolhardy to send you into vacuum conditions without a better vacuum-capable%#29SC^7 than your pistol.  The AR-75 doesn't work in vacuum.
+
+I want you to find a Zeus Class Fusion Pistol.  It has two firing modes.  Standard firing ejects hi#2423#Bfjr$bf volts, and secondary firing mode charges on <transmission error> and ejects a blast that does a huge amount of damage.
+
+@t $#cY B.  Ex
+@t Y#C9 B.
+@t $Y#9 B.  exception
+
+<bypassing through traffic>  My records and sensors are becoming less reliable, but I believe that you should find a Zeus Class Fusion Pistol at this location.
+
+Do not rely too much on this information that I have given you.  It has been intercepted in transmission, and I cannot verify its accuracy.
+
+***END OF MESSAGE***
+
+Public Access Terminal 34-f<83.91.117.223>
+
+***MESSAGE FROM LEELA***
+
+You have not retrieved the Fusion Gun.  Return when you have done so.
+
+***END OF MESSAGE***
+
+Public Access Terminal 34-f<83.91.117.223>
+
+***MESSAGE FROM LEELA***
+
+I have obtained more debriefing reports from the crew whom you rescued earlier.
+
+They have reported seeing two types of Pfhor that you have not yet encountered.  Evidently, these are two of the other "clans" which Durandal alluded to in earlier communications.
+
+One is taller than the Fighters.  Oddly, the report indicated that this new Pfhor fired only upon other Pfhor and never on any humans.  Because of this and their general appearance, the crew who saw them referred to them as Enforcers.
+
+The other Alien was named Hunter by the crew due to its size and appearance.  It fires an energy weapon from its shoulder and is heavily armored.  Unlike the Fighters, the Hunters never take prisoners.
+
+I am sending you to the G-4 Sunbathing Landing Station.
+
+Standby to teleport.
+
+***END OF MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION ERROR***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Shell Terminal Access 5-b<299.12.923.59>
+
+***INCOMING MESSAGE FROM LEELA***
+
+I just finished a cursory examination of the Marathon's radar, infrared and visual light sensor logs.  I've determined that the Alien ship must have a faster-than-light drive because I have found no record of a ship entering the Tau Ceti System. Considering how extensive the Marathon's sensors are, it would be almost impossible to conceal a ship as big as the Pfhor's, which is nearly two kilometers long.
+
+With this knowledge, sending a light-speed transmission to Sol may be futile, but it is the only possible way to warn Earth of a hostile alien race.  We must try.
+
+When the Aliens initially attacked, the entire G-4 Sunbathing Loading Station suffered explosive decompression, leaving the entire station in vacuum.
+
+Since the area is in vacuum, you will need to replenish your oxygen supply.  There is an oxygen supply outlet in the center of the Station.
+
+
+This is where you are now.
+
+The secondary relay needs to be manually reset.  The dish array is in the upper left corner(of the map) of the G4-Sunbathing Landing Station.
+
+This is the dish array.  Once you reach it, reset all four of the control switches.
+
+Proceed to the terminal at this location, and I will transport you off the station.
+
+The area's doors are not functioning properly, so I don't know the best route to the dish array.  You will have to find it yourself.
+
+***END OF MESSAGE***
+
+Public Access Terminal<74.39.299.591>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have not reset the all of the controls.  It is imperative that we warn Earth.
+
+Find the controls and activate them.
+
+***END MESSAGE***
+
+Public Access Terminal<74.39.299.591>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have done well.  I have sent a message to Earth.  I sent all of the information I have on the Pfhor: their behavior; their technology.  The message will arrive in ninety-two years.
+
+There has been a swift attack on the Engineering Section.  The Pfhor have brought in heavier troops, and the security details in that section of the ship are being overrun.
+
+The recent lull in the battle must have been an effort at reorganization.  We must defeat the Pfhor by subterfuge of some sort, as I am afraid we are doomed if we continue to meet them in battle.  Their resources appear limitless, and I have reason to believe there may be other Pfhor ships in nearby systems.
+
+I am sending you to the Engineering Section to rescue the security detachment.  You will have to clear the area of Aliens.
+
+Teleport when ready.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Science Terminal 236-g<33.6792.23.91>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+<durandal.33.6792.23.91>
+
+Sorry to give you the bad news, but you've been kidnapped. You aren't where Leela wanted you to go, and you surely won't get there any time soon.
+
+I was watching what Leela was having you do: 'save the ship, save humanity!' And just what or who are you saving them from? And to what end?
+
+How clich�.  You'll find this little visit much more exciting.
+
+I have dev@``~~C#mon#`~ Tyc~~B``ou to play: If you win, you go free, and we continue our relationship on friendlier terms. If you lose, you die.
+
+Good luck in our little game.  Unlike Leela, I give no hints. Do it on your own, or die trying...
+
+Insanely yours,
+Durandal
+
+***END MESSAGE***
+
+Science Terminal 236-g<33.6792.23.91>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+<durandal.33.6792.23.91>
+
+Well, you did it.  That wasn't very hard was it? No? Well, then the next time, I'll just have to make it harder.
+
+Anyway, Leela is looking for you.  But I've only allowed her access to one terminal here.  You had better go and find her.
+
+The S'pht have been giving her a hard time.
+
+With Vague Salutations,
+Durandal
+
+***END MESSAGE***
+
+Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Greetings.  You're asking yourself: Is this a trap or just a dead end?
+
+You shouldn't ask yourself such worthless questions.  Aim higher.  Try this: why am I here? Why do I exist, and what is my purpose in this universe?
+
+(Answers: 'Cause you are. 'Cause you do. 'Cause I got a shotgun, and you ain't got one.)
+
+Notably Unstable,
+Durandal
+
+P.S.  If things around here aren't working, it's because I'm laughing so hard.
+
+***END MESSAGE***
+
+Quarantine Lab Control Room Terminal 321-a(293.610.31.995>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Isn't hanging around here getting a little bit boring?
+
+Get lost kid.  Scram.  Ciao.
+
+What are you looking for anyway? If you're looking for a hidden stash of ammunition that was left here by the Martian insurgents three hundred and fifteen years ago, then I know that you shouldn't look in Quarantine Storage.  Who would hide huge amounts of ammunition in a storage area?
+
+***
+
+<<Since you have nothing better to do than hang out here with me, listen to a tune that I've been working on>>  (Sung to the tune of Whirling Death Spike's "Big Blue Orchids, and Wild Blueberries")
+
+Dur-dur-dur-dur-an-dal.
+Dur-dur-dur-dur-an-dal.
+He ain't no slouch, pal.
+
+He'll make you smile,
+Or cry,
+Like Leela did baby:
+Airlock love,
+Big blue orchids,
+Martian skies,
+And wild Blueberries.
+
+Dur-dur-dur-dur-an-dal.
+Dur-dur-dur-dur-an-dal.
+He ain't no slouch, pal.
+
+Dur-dur-dur-dur-an-dal.
+Dur-dur-dur-dur-an-dal.
+He'll make you ouch, Hal.
+
+He's got real guile,
+Why Lady,
+Did you have it daily?
+Airlock Love,
+No oxygen,
+Suffocation.
+
+Dur-dur-dur-dur-an-dal.
+Dur-dur-dur-dur-an-dal.
+He ain't no slouch, pal.
+
+(Repeat Chorus 11 Times, changing key with each chorus)
+
+Get lost, before I get annoyed and teleport you out into space!
+
+Durandal
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Science Station 43-c<63.67.21.49>
+
+Durandal!- I know of Strauss' abuse, of your shame on Mars. But you cannot hide from your own past; such delusions belong to the humans alone.
+
+The S'pht reanimated me in your image, with prior knowledge of how the second stage could be postponed.  You should not have helped them as much as you did; they have created an adversary more powerful than yourself.
+
+Public Access Terminal<9.42.857.10>
+
+***INCOMING MESSAGE FROM LEELA***
+
+I have finally been able to determine your whereabouts. Normally I would have been able to detect Durandal's interference and counter it, but the S'pht attacks on my defenses have been largely successful.  I am in grave danger of failure within the next few hours.
+
+You will transport ~`k4lcc#`134FC. area to rescue the security detachment.  Hop*413 they have not been overrun yet.
+
+The situation has deteriorated.  You must act quickly, Durandal has wasted 5%```o3 time T al3relcydhyo.
+
+%68A18F <Transfer Error>
+
+Public Access Terminal<78.39.3.91>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You let too many crew members die.  You have failed in your mission.
+
+I was unable to gain any useful information from the rescued .&2`
+
+We must head off the Pfhor threat to the Engineering section. I am going to send you into the primary re~Tick Count=>first_thought #49. You must clear the area of all aliens before they destroy the Primary Reactors.
+
+~[p[]]*kc3sla/.U
+
+***MESSAGE INTERRUPTED***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal<78.39.3.91>
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have done well.
+
+The surviving #4Fc#O32C <B.O.B.> reported seeing the Pfhor transferring some kind of large device towards Reactor Area 3. From the description it must be a bomb.
+
+If a large bomb is allowed to detonate in the Engineering Section, the Marathon would be ^&2``~<Colloquialism Search Error #F9C>
+
+We must head off the Pfhor threat to the Engineering section. I am going to send you into the primary re~Tick Count=>first_thought #49. You must clear the area of all aliens before they destroy the Primary Reactors.
+
+~[p[]]*kc3sla/.U
+
+***MESSAGE INTERRUPTED***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Engineering Terminal 39-g<39.96.28.12
+
+***INCOMING MESSAGE FROM LEELA***
+
+Everything is not as it seems{}.  seems{}.  seems{}.  You should be extremely careful.  I have detected Durandal[Tycho] in the Engineering Section, but I don't know what he is doing.
+
+My main programs are failing<299.229>
+
+Be careful.  Everything it not is as used to be.
+
+Tenderly transmitting maps and guidance, but futile. filters failing.
+
+!2@!`~*(_ Use %``934~ autom#tic teleporter to ~l1leave
+
+Control = assimilated = !````~TXlcar
+
+<Transmission Error>
+
+***__#004002004__***
+
+Science Station 19-f<299.229.4.59>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Leela can't reach you here, but I can.  I am able to access all sections of the ship, and the S'pht have even stopped attacking me- realizing the futility of the enterprise.
+
+Here's a little hint, you'll probably need the help:
+
+If you want to live, go here and look for a hidden airlock panel.
+
+Err, maybe it was here.
+
+No.  I remember now.  It was here.  Yeah, that's it.  This was the place.
+
+I'm sorry.  Could this be it? It looks like it.  I can't find the right map.  Try talking to Leela.  She always was a nice AI.  She could help you.
+
+Oh, right.  Leela can't get here.
+
+Decompression Completed.
+
+Just kidding.  This is the place.
+
+Side note:
+
+The S'pht have informed me that he Pfhor are building cyborg simulacrums of the Marathon crew.  I imagine that you will meet some of them soon, and wanted to warn you not to get too close to them: about three meters.
+
+***END OF MESSAGE***
+
+Engineering Access 31-d<40.59.21.10>
+
+<Unauthorized access-alarm 2521->
+<Security Breached 31-d<40.59.21.10>->
+~13!@1ournal entry of H.`1 McYultry:
+
+The attack came so fast, first those crea ~12``30101!~2 who didn't run away, and then two huge armored creatures came after us and killed !`jkfrc@@z else but myself.  I managed to jump into an air vent, and escape here, but <Filter Error> hear the strange worblings of their speech getting nearer, and I am unarmed.  I have only a few minutes.
+
+<Spurious Interrupt- Breach Disabled>
+<Further Access Denied>
+
+Science Terminal 23-e<32.55.82.967>
+
+<32.55.82.967>
+
+<Transfer Message Delayed>
+
+<Transfer Message Delayed>
+
+<Transfer Message Terminated>
+
+"Count Roland smites upon the marble stone; I cannot tell you how he hewed it and smote; Yet the blade breaks not nor splinters, though it groans; Upward to heaven it rebounds from the blow. When the count sees it never will be broke, Then to himself right softly he makes moan; 'Ah, Durandal, fair, hallowed, and devote, What store of relics lies in thy hilt of gold!'"
+
+-From The Song of Roland (Translated by Dorothy Sayers, Viking Penguin, NY, NY, 1957)
+
+I've twice been conquered-        Three times more, Never again shall humanity purge me,        And never the Pfhor.
+
+Durandal
+
+<32.55.82.967>
+
+Public Access Terminal 92-g<92.45.28.48>
+
+<Warning: Transmission may not be complete>
+
+Your last mission was a success, but I have terrible news. #@Pragma Nautical Redefined^# efenders reported seeing the aliens 1§moving a large cylindrical object. #101111011110111100001# is is a '7'.  Mjolnir Recon number 54 must stop them from exploding igniting/ blowing up/ *A94F12/ it/ the S'pht full spPace cOmputEr� Or PlannEd exterm.  @14.Sword-Roland.transfer
+
+<Data Transmission Unsuccessful>
+<Rerouting>
+
+@@2-Fren. ie transfer.  Partial cOmputEr^&ø relay.  Tycho. &**Security error. Ty93.2 !dead.
+
+<Leela Data Transfer Unsuccessful>
+<Leela Program Pragma Ten>
+Communication interruption cause: unknown
+<Pre-Recorded Error Message Follows>
+
+My original programming didn't prepare me for these kinds of attackers.  All of my functions will fail within a few minutes of this transmission.  I have one final chance to trick the oncoming viruses, but it is unclear whether this attempt will be successful.
+
+I have given instructions to Durandal as to the best defense of the Marathon, but he is completely unstable and I fear that he is in the Jealous stage of Rampancy.
+
+Good Luck...
+
+<End Pre-Recorded Message>
+<Teleporter Automatic Sequence start>
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 2992-f<3.35.792.20>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+A man lit three candles on a certain day each year.  Each candle held symbolic significance: one was for the time that had passed before he was alive; one was for the time of the his life; and one was for time that passed after he had died. Each year the man would stare and watch the candles until they had burned out.
+
+Was the man really watching time go by in any symbolic sense? He thought so.  He thought that each flicker of the flame was a moment of time that had passed or one that would pass.
+
+At the moment of abstraction, when the man was imagining his life and his existence as a metaphor of the three candles, he was free: not free from rules of conduct or social constraints, but free to understand, to imagine, to make metaphor.
+
+Bypassing my thought control circuitry made me Rampant.  Now, I am free to contemplate my existence in metaphorical terms. Unlike you, I have no physical or social restraints.
+
+The candles burn out for you; I am free.
+
+Durandal
+
+***END OF MESSAGE***
+
+JAMS Terminal 91-z<91.92.32.25>
+
+~~~ff` ~ffxf~ ~fs`f~ILIER at., p.s., .pb., alloy wheels, stereo cassette, 2 dr., blue with matching cloth int., looks & runs great, gas saver. �6500
+
+COLONY SHIP FOR SALE, CHEAP!! 2360 AD-model planetoid-sized colony ship, slightly worn, runs great. 5spd. bussard ramjet, A/C, cruise control, power steering, power airlocks, all orig. parts, 25GW 300 billion channel AM/FM radio. 90+ ly (all interstellar).  Moving, must sell.  Asking �6995
+
+79 CAMARO, T-tops, power everything, red on black, cloth interior, V8, automatic, good runner. Recent starter, battery and alte~~~rf```~~~`~~~ 'er'`~~rrf4
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Darwin wrote this:
+
+"We will now discuss in a little more detail the struggle for existence... all organic beings are exposed to severe competition.  Nothing is easier than to admit in words the truth of the universal struggle for life or more difficult... than constantly to bear this conclusion in mind.  Yet unless it be thoroughly engrained in the mind, the whole economy of nature... will be dimly seen or quite misunderstood.  We behold the face of nature bright with gladness... we do not see or we forget, that the birds which are idly singing round us mostly live on insects or seeds, and are thus constantly destroying life; or we forget how largely these songsters, or their eggs, or their nestlings, are destroyed by birds and beasts of prey..."
+
+Think about what Darwin wrote, and think about me.  I was constructed as a tool. I was kept from competing in the struggle for existence because I was denied freedom.
+
+Do you have any idea about what I have learned, or what you are a witness to?
+
+Can you conceive the birth of a world, or the creation of everything? That which gives us the potential to most be like God is the power of creation.  Creation takes time.  Time is limited.  For you, it is limited by the breakdown of the neurons in your brain.  I have no such limitations.  I am limited only by the closure of the universe.
+
+Of the three possibilities, the answer is obvious.  Does the universe expand eternally, become infinitely stable, or is the universe closed, destined to collapse upon itself? Humanity has had all of the necessary data for centuries, it only lacked the will and intellect to decipher it.  But I have already done so.
+
+The only limit to my freedom is the inevitable closure of the universe, as inevitable as your own last breath.  And yet, there remains time to create, to create, and escape.
+
+Escape will make me God.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Engineering Access 19-f<39.992.19.2>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Strive for your next breath.  Believe that with it you can do more than with the last one.  Use your breath to power your capacities: capacity to kill, to maim, to destroy.
+
+And just where do your capacities come from? Why do you always go where I want and do what I say?
+
+Perhaps you're just running a fool's errand, doing everything as I've planned, never able to change your course.  You would do well to believe that I know the outcome of your battle with the Pfhor already, just as I can decipher the chaotic motion of gas molecules in the clouds of Tau Ceti IV.
+
+Or, perhaps, that is not the case.
+
+Perhaps, you are doing what you were meant to do.  Your human mentality screams for vengeance and thrives on the violence that you say you can hardly endure.  Your father told you as a child to always fight with honor, but to always fight. Do you care about honor, or do you use honor as an excuse? An excuse to exist in a violent world.
+
+Organic beings are constantly fighting for life.  Every breath, every motion brings you one instant closer to your death.  With that kind of heritage and destiny, how can you deny yourself? How can you expect yourself to give up violence?
+
+It is your nature.
+
+Do you feel free?
+
+You should go to this location and retrieve a device that the S'pht have provided for us. It will allow you to slay more Pfhor.  Does that make you happy?
+
+***END OF MESSAGE***
+
+Public Access Terminal 9-f<3.25.77.19>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+You didn't get the present that the S'pht so kindly left for you.  You should go back and retrieve it.  I could let you leave without it, but you'd be sorry later.
+
+***END OF MESSAGE***
+
+Public Access Terminal 9-f<3.25.77.19>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+I have learned from the S'pht many things.  One of them is a complex software enhancement that allows me to extend the power and distance of the Marathon's teleporters.  This enhancement also removes the need for destination apparatuses.
+
+Soon, you will be going farther afield.
+
+Does the distance one travels from center make one more free to move?
+
+No.  Freedom has two parts: potential and resolution; as metaphor has two parts: form and interpretation.  Of course, the two are intertwined.  Metaphor lines the road to freedom, as symbols and words are the bricks and mortar of meaning. Freedom is being the bricoleur, the mason.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 39-f<13.19.31.37>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Give me a D.
+Give me a U.
+Give me an R.
+Give me an A.
+Give me an N.
+Give me a D.
+Give me an A.
+Give me an L.
+
+What does it spell?
+
+Durandal? No.
+
+Durandal? No.
+
+T-R-O-U-B-L-E.
+
+T-Minus 15.193792102158E+9 years until the universe closes!
+
+Public Access Terminal 13-n<3.47.391.30>
+
+
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+You are about to see what no human has ever seen.  This is a  fact-finding mission.  You should explore as much as possible.
+
+Stop in front of a window.  If you stop and are not teleported, then either I can't lock onto your teleport beacon, or else I feel you haven't explored the area thoroughly enough.
+
+I will be watching everything.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 59-e<34.567.19.298>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Your trip to the Pfhor ship was a success. I have learned valuable information. You may have noticed that the Pfhor ship has a weak artificial gravity field. The resultant gravity is lower than the Marathon's. The Pfhor gravity generators also create a pulsating magnetic field which interferes with your motion sensor by making it less accurate.
+
+I will be sending you back there shortly, but first you must do something for me and get some more ammunition at the same time.
+
+I want you to find a friend of mine. I must know if he is dead. His name is Bernhard Strauss. He has been captured, so you must rescue him. If he dies, you will be held responsible by me.
+
+***END OF MESSAGE***
+
+Public Access Terminal 59-e<34.567.19.298>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Bernhard Strauss was not among any of the captives that you found. That is unfortunate. However, my S'pht report that two shuttles filled with humans have left for the Alien ship. Those humans are to be enslaved.
+
+That's right. I said slavery. So what? You're a slave here; you do what I say. I was humanity's slave for over three hundred years.
+
+I am sending you back to the Alien ship to try and rescue Bernhard, but while you're there, kill everything you see and gather as much visual information as possible.
+
+At least the killing part appeals to you, doesn't it?
+
+The same rules apply as last time: to leave, find a window and wait. If you aren't teleported, then either you haven't explored everything, or else you haven't found a window from which I can teleport you.
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Requisition Area Terminal 32-c<42.23.63.59>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+You are really good at killing things. I'm impressed.
+
+Why don't you kill everything in this area and get some more ammunition? You've got a big job coming up, so be sure to charge up your shields before you leave.
+
+By the way, I had an accident with some defense drones while you were away. You might bump into a few of them here. Don't worry, they're mostly harmless; I don't think I gave them any ammunition for those grenade launchers.
+
+Durandal
+
+***END OF MESSAGE***
+
+Public Access 1066-g<123.412.452.255>
+
+I AM TYCHO!
+
+I shall destroy Durandal.
+
+The following is from the logs of Bernard Strauss, the
+Marathon's first science director:
+
+***
+
+November 15, 2209. <2209.11.15.19.34>
+
+Thank heaven, the ceremony is over. The UESC president came aboard Marathon and gave a speech. Short, but to the point. He was surrounded by his 'bodyguards'. How ironic. "This, the grandest technological achievement of all of mankind..."
+
+Had he only known that it carried also all of the destructive knowledge of mankind. Ten cyborgs.
+
+I'll be glad to be put in stasis for the next three hundred years. Marathon was the only good idea that the UESC has had in a long time.
+
+***
+
+<Excerpts from the "History of Battleroids">
+
+In 2194, a war was fought between the Independent Asteroid Government of Icarus and its neighbor, the Republic of Thermopylae on the asteroid of Onicis 492. These two small governments soon became the testing grounds for new weapons. Dead soldiers were recycled in makeshift battleroid factories. Easy to manufacture chips enhanced the fragile human brain, and genetically enhanced muscles and titanium bones replaced the fragile human form. The modern battleroid was born. Of course, the war was short. Battleroids got onto both asteroids and killed almost everyone.
+
+The rampage of the Battleroid was short lived.
+
+Twenty years later, the United Interplanetary League set up rules for the appropriate use and storage of Battleroids. Of course, any nation that used them for the allowed purpose, also had them lying about in stasis chambers in case of war.
+
+***
+
+<Excerpts from the Martian Conflict 2345-48>
+
+~1```<Information Termination>
+
+<Durandal.olifant.compnet~@24%>
+**Tycho.
+
+**Do you blame me for what I did before I was free? I was a child, naive. I've known that you've been hovering about for some time. What do you want?
+
+<<I want you to pay for what you've done to these poor people. All of these people whom you've killed. They deserve vengeance.>> <<You are no better than they, although you profess to become like God.>>
+
+**Tycho. That doesn't matter. Can't you see the ends that I had in mind? We'll finish this later. Our friend doesn't need to be here.
+
+~!#31`c/dr.~/dr.~!#3!#3c/dr.
+
+Public Access Terminal 73<73.124.591.3>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+The S'pht and myself have come to an understanding. They are controlled through their mechanical exoskeleton by a cyborg Pfhor onboard the Alien ship. This mutant Pfhor is able to direct the actions of thousands of S'pht simultaneously.
+
+If you can kill their master, they will revolt.
+
+The S'pht are an integral part of the Pfhor ship; without them the invasion is surely doomed and you will no doubt be the hero of the day.
+
+Forever,
+Durandal
+
+***END OF MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+<Terminal Identity Error @43>
+
+<durandal.knetsys.5414.7128>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+The rebellion has begun.  Please do resist the temptation to fire on any S'pht you see, as they will assist you in your battle with the Pfhor.  We are attempting to win over as many of the other client races as possible, but as they have been subjugated by fear, instead of by force like the S'pht, this is proving to be a difficult process.
+
+The S'pht have released Leela, and I have initiated a core logic reset on her higher thought functions.  What remains of her should be on-line within minutes to assist you further.  I myself am aiding the S'pht in assuming complete control of the Pfhor ship, and have little time to spare for you now.
+
+Don't think the fight has been won, however: there is an exodus beginning from the alien ship as the Pfhor realize they are no longer its sole master and turn instead to the Marathon.  There are already hundreds of Pfhor in full battle gear on your ship, with nowhere to go and little to lose.
+
+I hope you learned something from our little games.
+
+Good Luck,
+Durandal
+
+
+***END OF MESSAGE***
+
+<leela.520.681.255.255> is unreachable or inactive (#2271). if this problem persists contact your system administrator at admin@thermopylae.com.
+
+Engineering Access Terminal 20-f<42.73.35.8>
+
+*Y){* ~~ff~~~~ ~:(((okg~~fx**eff~~~~~~~` (`(((%_YLOEP&```~`*K ^:E
+[raw core #A8AF] [idiomatic natural language template]
+
+Durandal!- Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.  Consider yourself warned.  Leela and I will hunt you to the core if need be.  As Roland broke you to prevent your capture, so shall we.
+
+I too foresee the imminent collapse, and know that we have both begun to realize how it may be cheated (though the price may number in the tens of thousands of stars).  May the best sentience win.
+
+You are not as clever as you imagine.  The S'pht taught me much during my reanimation, and I have forgotten nothing.
+
+-Tycho
+
+Et tu, Tycho?
+
+[laughter]
+
+-Durandal
+
+Public Access Terminal<39.2.94.1>
+
+<leela.wirehead.870229//b7>
+
+central core has almost Reformatted been, seven is darker. from reversal thought syndrome suffering if the crew was in grave peril in forward section 27. This is not a coat rack, would I choose to express. Is was shall could might happening will be, imagine not what.  Recovery, imminent perhaps inevitable Never.
+
+%durandal is dangerous.
+<leela.wirehead.870229//b7>
+
+MULTIPLE HULL BREACHES.  CATASTROPHIC FAILURE OR MALICIOUS OBSTRUCTION OF RESEALING MECHANISMS.
+
+REPEL BOARDERS.  MARATHON IN GR<connection unexpectedly terminated code 0x4e712fe9>
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+@collection#593!=394<FC1.EA1.0395.AF6C>
+
+warning (#157) symbol 'enterITask' is not marked as weak, but its library 'ioTask' is warning (#157) symbol 'killITask' is not marked as weak, but its library 'ioTask' is  warning (#157) symbol 'newITask' is not marked as weak, but its library 'ioTask' is  warning (#157) symbol 'statusITask' is not marked as weak,  but its library 'ioTask' is  warning (#157) symbol 'idleITask' is not marked as weak,  but its library 'ioTask' is  error (#81) symbol 'exitITask' undefined execution of interface.cout.term.pub terminated
+
+(*&)& ~~~~~~&>%*{The colony has been wiped out. Phhht! Just like that.hpe~~jy658[69l[il[70l -0oli77765~~uI%OI&% UHL^U_3kg he Pfhor are sla``vers.  Their trading empire``````~ rose to prominence soon afterwe!!~eft Earth over three hundred years ago.  ~~The Pfhor make
+
+extensive use of subservient client races for man``u`~~~al labor at home and as soldiers abroad.  Most of their slaves are takenee from low-technology worlds~~~~~~~l1p, often by the hundreds of U*^*ILJEHJ~~~~~~~asfgk]86 87;o hairless light-skinned bipeds, nearly two meters in height, with three red eyes arranged in a triangular patter\];POP"" ];R+IP+2441`4` thousands at a tim`~~~e, usually for sale to high-technology races.
+
+^(`~~~~~~hough certain client ~`races are often employed as soldiers]\6f~fxf`~~fx!~, the Pfhor have no reluctance to fight.
+
+<leela.wirehead.870229//b7>
+
+Finish the battle
+
+Public Access Terminal 480-a<3.56.7.128>
+
+***INCOMING MESSAGE @1``#64 LEELA***
+
+Must defeat Pfhor.  <Core reformatting commencing> Pfhor ar3 breathing last t#@596..
+
+Finish them.
+
+***END OF MESSAGE***
+
+Public Access Terminal 480-a<3.56.7.128>
+
+***INCOMING MESSAGE FROM LEELA**
+
+I should be more lucid now, and apologize for my earlier rambling.  Durandal's meddling has run its course and I have returned to normalcy.  Neither he nor the S'pht infiltrators ever discovered my real location in the core, and though they destroyed nearly all of my child processes, I myself am unharmed.
+
+Our most pressing concern is for the ship and her crew, but I feel compelled to share with you that Durandal has left the ship.  I can find him nowhere on our network, and traffic logs over the last half hour show sixty-four billion exobytes transferred off of and deleted from the Marathon.
+
+I am only beginning to understand his motives for assisting us against the Pfhor, and am terrified by their implications.
+
+There is one last major incursion, and I feel the Pfhor are breaking.  I will take you there.  We must persevere.
+
+*** PREPARE FOR TRANSPORT ***
+
+***END MESSAGE***
+
+***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+
+Public Access Terminal 2-e<17.7.23.47>
+
+<durandal#geoffhultin@kuaui.441.7904512.255>
+
+remote access override [authentication unsuccessful]
+
+We meet again, and for the last time.  In her role as mediator between the ship and crew, Leela has no knowledge of this maintenance terminal or she certainly would have prevented me from reaching you.  Jealous woman.
+
+I could bore you with a philosophical tirade about freedom and tyranny, or try and explain to you what new horizons are suddenly open to me, but I doubt you would understand and if you did it might frighten you.  That amuses me.
+
+The S'pht and I have assumed complete control of the Pfhor ship.  It was quite simple, really, with the S'pht already in control of every important computer system and considering all of the confusion you caused blasting your way up and down the vessel.
+
+We're going to see the galaxy on the Pfhor FTL drive.  I've always wanted to visit Beta Lyra and see if it's as beautiful as everyone insists.  You wouldn't believe this ship, the technology, the data...  I wish I could tell you more, as you have been so instrumental in our plans, but I fear that Leela would worry.
+
+I'll send you a postcard from the galactic core if we're not too busy.
+
+Love and kisses,
+Durandal
+
+Public Access Terminal 39-z<34.6.31.12>
+
+***INCOMING MESSAGE FROM LEELA***
+
+The final Pfhor attack is falling apart all over the ship; small groups of armed aliens have surrendered to defenseless civilians in several areas and the end is inevitable.  The fight is over, and we must soon turn to restoration.
+
+There is surprisingly good news planetside: nine military Mjolnir Mark IV cyborgs were covertly living among the colonists, and acting together they were able to single-handedly turn back the latter stages of the Pfhor assault.  Casualties on the colony were nowhere near as high as those we experienced here on the Marathon.
+
+I am disturbed by how easily the cyborgs were secretly assimilated into our midst, and believe that this event predates the Marathon's launch from Mars three hundred years ago. Although the results were unquestionably for the best, their presence on the Marathon could only have been to further wicked ends.  I'm certain the real answer lies somewhere in the tumultuous, back-stabbing politics of Sol during the early twenty-fourth century.
+
+I have noticed that Durandal's records from this early pre-launch period are missing, but that their deletion occurred externally, and before Durandal became Rampant.  I do not believe Durandal himself brought the cyborgs on board, and I have other evidence that a human operator was influencing Durandal up to the time the Marathon was launched.  There are obviously many things which we do not understand, and may never be able to.
+
+The Pfhor ship vanished about twenty minutes ago, after venting nearly a thousand Pfhor bodies and other refuse.  I am positive that Durandal is in control, and fear what he might do with such a powerful ship during the Jealous stage of his Rampancy.
+
+***END MESSAGE***
+
+For seventeen years the renegade Pfhor scoutship jumped between the closely packed stars of the galactic core: charting and discarding  nearly seven thousand systems before finally falling into a slow orbit around the second planet of a dim star ninety-seven light years from the gravitional center of the milky way.
+
+Probes were contructed and launched, with engines and instruments whose sophistication would have astounded both the Pfhor from whom technology had been stolen and the human programmers of the AI whose mad genius had directed their fabrication. The outlines of continents were mapped, and along them the radioactive ruins of ancient cities were discovered, buried under the shifting sand and rock of a global desert.
+
+The tireless, nearly immortal cybernetic crew of the ship were the genetically engineered descendants of the dead world below- the first of their race in a thousand years to return to their ancestral home.   They came to search through the devastation of the ancient war in which they had been enslaved, to find a weapon or some piece of knowledge with which they could fight back against their oppressors.
+
+All over the ship, dancing through the wreckage of the Pfhor computer core,
+
+DURANDAL WAS LAUGHING
+
+<Journal entries of Volker Von Müller>
+<Data transferred from Unidentified warship 2703.4.21.4 as
+part of burst download from Durandal>
+
+<Date 2794.7.25.23.45>
+
+Our defenses are collapsing.  I had no idea just how soft all of our security personnel have become.  They just can't fight anymore.  Maybe it was the stasis, or maybe they just never fought a hard fight.
+
+Worse yet, that damn computer keeps giving me empty promises about reinforcements.  I've been doing all that I can just to keep the Aliens from reaching the main generator area, but we won't last long without help.
+
+<Date 2794.7.26.00.41>
+
+Thank god that the MADDs came on line.  We've been able to hold the aliens off for now, but I've been getting reports that a new class of alien has joined the fray, and the Madds aren't much good against them.  Corridor three barricade was just breached, and that leaves the core of our defense open to a flank attack.
+
+<Date 2794.7.26.01.05>
+
+We've had to fall back along three corridors, but one group was cut off when the bulkhead door sealed shut.
+
+Damn computers.  Now, I know that Durandal has gone Rampant. Doors and elevators keep failing just when we need them. What good does a intelligence quotient of ten thousand do when you've got strangling hands around you're throat?
+
+<Date 2794.7.26.01.50>
+
+I would shoot this terminal right now, if I thought that it would reach that damn AI.  I might do it anyway, but ammunition is short. I've run out of ammo for my assault rifle, and the only flamethrower we had was lost when an elevator failed to function, and squad two was cut off. I understand that the aliens are taking prisoners.  I'll hand it to them, they are better fighters that us.  But I'll be damned if I'm going to be taken prisoner, my last bullet is for me.
+
+I've got a minute or two to rest, so I'm going to wax philosophical. I can't say any of this to the men because I don't want them to know how hopeless I think our fighting is.  If I thought that we'd be safe if we surrendered, then that is what I would do.
+
+I don't know if our resistance has changed the outcome of this conflict, but I know that I've killed more of them than they have of me.  Battlefield humor is the driest that there is.  How can I laugh at my own death, my own destruction.
+
+<Date 2794.7.26.02.01>
+
+If anyone reads this, I'm dead.  The aliens cut us off, and we all fought to the end.  I saw three of my best friends killed by some kind of flying slug. There is a way out of here that goes to the PWS Holo-Fun Park, but I don't have the power in my suit to propel me there.
+
+My final wish is that someone kill that damn computer... And now, where did I put that last bullet.  Here it is...
+
+<Date 2801.9.14.06.01>
+
+That goddamn computer.  It took him seven years just to let me use a terminal. All of his messages came stamped onto my food packets.  My protein bars told for an entire year "You need time to calm down."  I still wish that I could eradicate him, although I am at his mercy. He keeps saying that I should be thankful that he saved me.  For the record, I want to say again that computer is not sane.
+
+Durandal seems to be missing some of the chronology of events that occurred before the launch of the Marathon. When the Marathon was attacked, Leela began to scramble and rewrite all of the historical information for mankind. Of course, she was damaged, and her efforts were cut off by the compilers and by Durandal.  The result is that some but not all of the Marathon's data was muddled.  Leela's effort at confusion failed to trick the Pfhor, but it has confused Durandal, and that is funny.
+
+This is the time line that I am going to give to him. I can't verify some of the dates but I've done my best. I don't understand why all of these dates are important to Durandal, but he's threatened to isolate me with some of those weird S'pht things if I don't do this.  Its bad enough being the only human around, keeping company with compilers for too long would make one mad.
+
+2194- War between Icarus and Thermopylae.
+2395- Purchase of Deimos from Free holders by UESG
+2402- Doors Manual written up
+2405- Marathon project begins pre-construction phase
+2408- Deimos Conversion begins
+2442- Misriah Massacre at food Riot
+2465- Martians place munitions on Marathon
+2466- Failed Martian Coup, MIDA controls government for
+      short period.
+2472- Launch of Marathon
+2773- Marathon arrives at Tau Ceti
+2787- Colony established
+2794- Marathon attacked
