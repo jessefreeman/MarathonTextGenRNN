@@ -18,7 +18,13 @@ from .model_training import *
 from .utils import *
 import csv
 import re
+import missinglink
 
+missinglink_callback = missinglink.KerasCallback(project='6515725095141376')
+
+missinglink_callback.set_properties(
+  display_name='Marathon Terminal Generator',
+  description='Generates terminal text for Marathon.')
 
 class textgenrnn:
     META_TOKEN = '<s>'
@@ -217,7 +223,8 @@ class textgenrnn:
                                       max_gen_length),
                                   save_model_weights(
                                       self, num_epochs,
-                                      save_epochs)],
+                                      save_epochs),
+                                  missinglink_callback],
                               verbose=verbose,
                               max_queue_size=10,
                               validation_data=gen_val,
