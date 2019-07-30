@@ -16,9 +16,9 @@ The aliens seem to have been caught off guard by the strength of our counteratta
 * * * end of message * * *
 ```
 
-To run this project, use the train.py script to create a new model and the generate.py script to output sample text. There is a dataset comprised of Marathon's terminal text scraped from the [official story site](http://marathon.bungie.org/story/contents.html).
+To run this project, use the [train.py](https://github.com/jessefreeman/MarathonTextGenRNN/blob/master/train.py) script to create a new model and the [generate.py](https://github.com/jessefreeman/MarathonTextGenRNN/blob/master/generate.py) script to output sample text. There is a dataset comprised of Marathon's terminal text scraped from the [official story site](http://marathon.bungie.org/story/contents.html).
 
-You can use the requirements.txt file to install the project's dependencies.
+You can use the [requirements.txt](https://github.com/jessefreeman/MarathonTextGenRNN/blob/master/requirements.txt) file to install the project's dependencies. There is also a [config.py](https://github.com/jessefreeman/MarathonTextGenRNN/blob/master/config.py) script you can use to modify settings during training and text generation.
 
 ## Credits
 
