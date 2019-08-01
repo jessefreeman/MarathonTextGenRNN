@@ -1,8 +1,6 @@
 from textgenrnn import textgenrnn
 from config import *
 
-print("Output Dir", OUTPUT_FOLDER)
-
 textgen = textgenrnn(name=OUTPUT_FOLDER + model_name)
 
 train_function = textgen.train_from_file if train_cfg['line_delimited'] else textgen.train_from_largetext_file

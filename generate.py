@@ -21,7 +21,7 @@ else:
 timestring = datetime.now().strftime('%Y%m%d_%H%M%S')
 gen_file = '{}_gentext_{}.txt'.format(model_name, timestring)
 
-textgen.generate_to_file("./outputs/" + gen_file,
+textgen.generate_to_file(OUTPUT_FOLDER + gen_file,
                          temperature=temperature,
                          prefix=prefix,
                          n=n,
