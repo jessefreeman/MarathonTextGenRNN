@@ -2,7 +2,7 @@ from textgenrnn import textgenrnn
 from config import *
 
 
-textgen = textgenrnn(name="./outputs/" + model_name)
+textgen = textgenrnn(name=OUTPUT_FOLDER + model_name)
 
 train_function = textgen.train_from_file if train_cfg['line_delimited'] else textgen.train_from_largetext_file
 

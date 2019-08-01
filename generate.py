@@ -2,7 +2,7 @@ from textgenrnn import textgenrnn
 from config import *
 from datetime import datetime
 
-model_path = "./outputs/" + model_name
+model_path = OUTPUT_FOLDER + model_name
 
 textgen = textgenrnn(weights_path=model_path + '_weights.hdf5',
                      vocab_path=model_path + '_vocab.json',

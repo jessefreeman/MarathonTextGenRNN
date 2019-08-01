@@ -1,3 +1,7 @@
+import os
+
+OUTPUT_FOLDER = os.environ.get("OUTPUT_FOLDER", "./outputs/")
+
 model_cfg = {
     'word_level': True,  # set to True if want to train a word-level model (requires more data and smaller max_length)
     'rnn_size': 128,  # number of LSTM cells of each layer (128/256 recommended)
@@ -6,7 +10,7 @@ model_cfg = {
     'max_length': 8,
     # number of tokens to consider before predicting the next (20-40 for characters, 5-10 for words recommended)
     'max_words': 100000,  # maximum number of words to model; the rest will be ignored (word-level model only)
-    "weights_path": "./outputs/"
+    "weights_path": OUTPUT_FOLDER
 }
 
 train_cfg = {
@@ -17,7 +21,7 @@ train_cfg = {
     'dropout': 0.0,  # ignore a random proportion of source tokens each epoch, allowing model to generalize better
     'validation': True,  # If train__size < 1.0, test on holdout dataset; will make overall training slower
     'is_csv': False,  # set to True if file is a CSV exported from Excel/BigQuery/pandas
-    "weights_path": "./outputs/"
+    "weights_path": OUTPUT_FOLDER
 }
 
 file_name = "marathon-terminals-v1.txt"

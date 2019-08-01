@@ -11,3 +11,4 @@ __pycache__
 /outputs
 /venv
 /.idea
+.DS_Store

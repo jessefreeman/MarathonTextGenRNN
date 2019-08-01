@@ -1,0 +1,11 @@
+command:
+- 'python train.py && python generate.py'
+org: jessefreeman
+project: 6515725095141376
+gpu: true
+queue: GPU
+name_prefix: "Marathon Test Job "
+git_repo: https://github.com/jessefreeman/MarathonTextGenRNN
+git_tag: missinglink
+env:
+  OUTPUT_FOLDER: /output
