@@ -1,6 +1,7 @@
 from textgenrnn import textgenrnn
 from config import *
 
+print("Output Dir", OUTPUT_FOLDER)
 
 textgen = textgenrnn(name=OUTPUT_FOLDER + model_name)
 

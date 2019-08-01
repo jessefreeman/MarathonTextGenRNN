@@ -8,4 +8,4 @@ name_prefix: "Marathon Test Job "
 git_repo: https://github.com/jessefreeman/MarathonTextGenRNN
 git_tag: missinglink
 env:
-  OUTPUT_FOLDER: /output
+  OUTPUT_FOLDER: "/output"
